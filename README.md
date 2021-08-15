@@ -1,1 +1,1 @@
-# Frontend-Mentor-
+# Frontend-Mentor: Order summary component challenge 
